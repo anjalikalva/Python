@@ -1,0 +1,4 @@
+#converting weight in kilograms to pounds
+weight_pounds=int(input('weight ' ))
+weight_kg= weight_pounds*0.432
+print(weight_kg)
